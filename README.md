@@ -8,7 +8,7 @@ Users can **search**, **sort** by price or % change, and **view a simple stock c
 ---
 
 ## 🚀 Live Demo
-[View the deployed app here!](https://your-deployed-link.vercel.app)  
+[View the deployed app here!](https://stock-dashboard-ayushs-projects-0daa8da5.vercel.app/)  
 (*Replace with your actual deployed URL*)
 
 ---
